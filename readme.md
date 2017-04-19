@@ -1,0 +1,1 @@
+Referenzprojekt zu [#01 Laravel —  Erste Schritte](https://medium.com/@wskc/01-laravel-erste-schritte-34b33f39dba3)
